@@ -1,2 +1,3 @@
-# binder-billing
-A repository to explore billing data for mybinder.org
+# Explore the Binder billing data.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jupyterhub/binder-billing/master?filepath=analyze_data.ipynb)
