@@ -1,6 +1,6 @@
 # Explore the Binder billing data.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterhub/binder-billing/master?filepath=analyze_data.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterhub/binder-billing/master?urlpath=lab/tree/analyze_data.ipynb)
 
 A quick visualization of our costs for running mybinder.org.
 
