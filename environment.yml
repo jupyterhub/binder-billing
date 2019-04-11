@@ -5,3 +5,4 @@ dependencies:
   - pandas
   - altair
   - numpy
+  - vega
