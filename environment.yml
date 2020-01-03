@@ -6,3 +6,4 @@ dependencies:
   - altair
   - numpy
   - plotly
+  - lxml
